@@ -13,6 +13,6 @@ let package = Package(
     targets: [
         .target(
             name: "ALCameraViewController",
-            path: "alexlittlejohn/ALCameraViewController")
+            path: "ALCameraViewController")
     ]
 )
